@@ -1,0 +1,29 @@
+# TODO
+
+- Core
+	- Library
+	- Plugins
+		- Dependencies
+		- Plugins for plugins
+	- Config
+		- Schema
+		- Types
+		- Merging
+			- Do not store default values
+		- Validation
+- Plugins
+	- Runners
+		- Native
+		- Wine
+			- Wine Steam
+			- Wine Legendary
+		- Minecraft
+	- Providers
+		- Image
+			- Steam
+		- Metadata
+			- IGDB
+		- CurseForge Minecraft modpacks
+	- Services
+		- GOG
+		- Steam
